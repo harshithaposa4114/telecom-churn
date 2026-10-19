@@ -1,0 +1,13 @@
+CustomerID,TenureMonths,ContractType,MonthlyCharge,Churn,AutoPay
+T001,12,Monthly,45,Yes,No
+T002,36,Annual,70,No,Yes
+T003,8,Monthly,35,Yes,No
+T004,48,Annual,85,No,Yes
+T005,15,Quarterly,55,No,Yes
+T006,4,Monthly,30,Yes,No
+T007,27,Annual,75,No,Yes
+T008,10,Monthly,42,Yes,No
+T009,40,Annual,80,No,Yes
+T010,22,Quarterly,60,No,Yes
+T011,6,Monthly,38,Yes,No
+T012,32,Annual,72,No,Yes

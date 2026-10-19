@@ -1,0 +1,10 @@
+Overall churn rate: 41.7%
+\nChurn rate by contract (%):\n ContractType
+Monthly      100.0
+Annual         0.0
+Quarterly      0.0
+Name: Churn, dtype: float64
+\nAverage tenure by churn status:\n Churn
+No     31.4
+Yes     8.0
+Name: TenureMonths, dtype: float64
